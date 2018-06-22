@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "190046690352",
+    "firebase_url": "https://deliveryapp-27256.firebaseio.com",
+    "project_id": "deliveryapp-27256",
+    "storage_bucket": "deliveryapp-27256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190046690352:android:723a5f1d42476dcb",
+        "android_client_info": {
+          "package_name": "com.olarth.deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190046690352-cimt5n4o8g6qldomr9m8gg1c8522d69d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olarth.deliveryapp",
+            "certificate_hash": "5c26ad7f5514a7a615042643344a04207ffd5ef5"
+          }
+        },
+        {
+          "client_id": "190046690352-im5vui73ptsmn8md443mndnclmi88v1f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "190046690352-im5vui73ptsmn8md443mndnclmi88v1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYpPRWA_psCpL9hDE0y-2xMLRrFTW48F8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190046690352-im5vui73ptsmn8md443mndnclmi88v1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
